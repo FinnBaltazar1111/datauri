@@ -12,4 +12,4 @@ data:text/html;base64,PGlucHV0IHR5cGU9ImZpbGUiIG9uY2hhbmdlPSJwcmV2aWV3RmlsZSgpIi
 # How it works
 See https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL
 
-By Finn Baltazar, with help from Mozilla Developer Web Docs
+By Finn Baltazar, with help from Mozilla Developer Web Docs and Kanav Gupta
