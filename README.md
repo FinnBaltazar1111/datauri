@@ -5,7 +5,8 @@ A simple tool able to convert any file into a Data: URI, with no size limit.
 2. Click "Choose File"
 3. Upload the file you want to convert
 4. Triple-click the Data: URI that appears below and copy it.
-   See my friend Kanav Gupta's [Data: URI Encoder](https://github.com/s0urce-c0de/data-uri-encoder) for a nicer look and the ability to easily copy-paste the Data: URI.
+
+See my friend Kanav Gupta's [Data: URI Encoder](https://github.com/s0urce-c0de/data-uri-encoder) for a nicer look and the ability to easily copy-paste the Data: URI.
 
 # Data: URI Converter INSIDE a Data: URI
 Here you go!
